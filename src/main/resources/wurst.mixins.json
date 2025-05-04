@@ -47,6 +47,7 @@
     "LanguageManagerMixin",
     "LivingEntityMixin",
     "LivingEntityRendererMixin",
+    "LogoutSpotsMixin",
     "MinecraftClientMixin",
     "MobEntityRendererMixin",
     "MouseMixin",
